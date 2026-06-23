@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sentir tu calor
+
+This log tracks the cryptographic history and versioning for the song **Sentir tu calor** (sentir-tu-calor).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T14:05:51.820354 | `v1` | `e44e18c4b2ac6a31d3b9b8a4c30d939cfa94ee8c6e04f37d3267fba06dbe0131` | `a9188e430caee3d85b5bdb80898b6a27a0e44a9dff84d9586c2f32e9bc1ee691` | `2026-06-23_sentir-tu-calor-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
