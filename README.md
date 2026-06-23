@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sentir-tu-calor/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Sentir tu calor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-calor/) |
+| **Get License** | [License this song: Sentir tu calor](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sentir-tu-calor/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Siento la tensión cuando me miras así
+> La noche nos llama, estás hecha para mí
+> Luces de neón y un deseo que no para
+> Déjate llevar, que el destino nos ampara
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
